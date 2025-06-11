@@ -1,0 +1,9 @@
+Gostaríamos de expressar nossa profunda gratidão pela oportunidade de desenvolver o projeto “Passa a Bola” como parte do desafio proposto em sua disciplina. Foi, sem dúvida, uma experiência altamente enriquecedora, não apenas pelo tema nobre de fortalecer e dar voz ao futebol feminino na América Latina, mas também pela chance de explorar novas fronteiras em UX/UI e prototipação no Figma.
+
+Desde o primeiro esboço até a versão final navegável, aprendemos a dominar ferramentas e técnicas que antes nos eram desconhecidas: criação de componentes responsivos, definição de fluxos de usuário, aplicação de design system e prototipação de interações avançadas. Cada etapa trouxe não só a satisfação de ver a plataforma ganhar forma, mas também o orgulho de contribuir para uma causa tão relevante.
+
+A clareza de sua orientação e a qualidade dos feedbacks que recebemos ao longo do processo foram fundamentais para que a equipe mantivesse o foco em soluções inovadoras e impactantes. Sentimo-nos verdadeiramente motivados pela sua paixão no ensino e pelo entusiasmo com que conduziu esse desafio, o que nos inspirou a buscar sempre um nível de excelência ainda maior em cada tela, cada fluxo e cada detalhe de interface.
+
+Esperamos que este trabalho esteja à altura de suas expectativas e que reflita todo o empenho e dedicação que colocamos na proposta. Ficaremos imensamente honrados se puder valorizar nosso esforço com uma avaliação generosa, pois acreditamos que este projeto evidencia não só nosso aprendizado técnico, mas também o compromisso com valores sociais que o senhor tão bem nos incentivou a abraçar.
+
+Muito obrigado pela confiança e pelo incrível desafio deste semestre.
